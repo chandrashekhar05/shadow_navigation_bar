@@ -5,7 +5,7 @@
 **Add dependecy**
 ```
 dependencies:
-  icon_shadow: ^1.0.1
+  icon_shadow: ^1.0.1 #latest version
   ```
 
 **Add images in your project**
