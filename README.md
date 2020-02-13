@@ -6,5 +6,5 @@ dependencies:
  
  And download Images from Images folder and put it in your project in Image folder or give your desire name
  then give proper path to load images.
- white_pix.png
+ White_pix.png
  New-logo.png
