@@ -16,4 +16,4 @@ New-logo.png
 ```
 Add in folder your project in ```%your_project_name%/images```
 
-<h2>Add in ```pubspecs.yaml```</h2>
+Add in ```pubspecs.yaml```
